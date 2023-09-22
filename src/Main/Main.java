@@ -14,5 +14,6 @@ package Main;
 public class Main {
     public static void main(String ...arg) {
        // TODO
+        System.out.println("HELLO-github");
     }
 }
